@@ -13,7 +13,7 @@ include_once 'layouts/navb.php';
         </div>
     </div>
 </div>
- 
+
 <section id="works"></section>
 <div class="container">
     <div class="container-fluid">
