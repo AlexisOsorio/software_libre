@@ -81,7 +81,7 @@ include_once 'layouts/navb.php';
                         </div>
                     </div>
                 </div>
-                <div>
+                <div> 
                     <br>
                 </div>
                 <div class="col-md-4">
