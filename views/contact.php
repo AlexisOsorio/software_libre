@@ -1,7 +1,7 @@
 <?php
 include_once 'layouts/navn.php'
 ?>
-
+ 
   <div id="contactwrap">
     <div class="container">
       <div class="row">
