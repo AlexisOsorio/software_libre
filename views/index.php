@@ -1,7 +1,7 @@
 <?php
 include_once 'layouts/navb.php';
 ?>
-
+ 
 <div id="headerwrap">
     <div class="container">
         <div class="row">
