@@ -12,7 +12,6 @@ include_once 'layouts/navb.php';
             </div>
         </div>
     </div>
-    <!-- /container -->
 </div>
  
 <section id="works"></section>
