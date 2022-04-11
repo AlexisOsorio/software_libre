@@ -57,7 +57,7 @@ include_once 'layouts/navb.php';
                             <p class="card-text" style="text-align: justify; font-size: 13px;"><b>Versiones:</b> </p>
                         </div>
                         <div class="card-footer">
-                            <p class="card-text" style="text-align: justify; font-size: 13px;"><b>Link: </b></p>
+                        <p class="card-text" style="text-align: justify; font-size: 11px;"><b>Link: </b><a href="" target="_blank" style="text-decoration: none; color:black"></a></p>
                         </div>
                     </div>
                 </div>
