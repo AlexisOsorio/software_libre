@@ -40,7 +40,7 @@ include_once 'layouts/navb.php';
                             <p class="card-text" style="text-align: justify; font-size: 11px;"><b>Link: </b><a href="https://www.mozilla.org/firefox/download/thanks/" target="_blank" style="text-decoration: none; color:black">https://www.mozilla.org/firefox/download/thanks/</a></p>
                         </div>
                     </div>
-                </div>
+                </div> 
                 <div class="col-md-4">
                     <div class="card border-info">
                         <div class="card-header bg-info">
